@@ -2,17 +2,15 @@
 
 apply gpt onto the math world
 
-# tree
+# philosophy
 
-## philosophy
+prompt gpt to do 80% work;
 
-prompt gpt to do the 80% work;
-
-## road map
+# road map
 
 let gpt complete the road map;
 
-complete a math knowledge collector
+a math knowledge collector
 
 interact with github repo
 
