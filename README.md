@@ -24,6 +24,6 @@ helping to solve equations
 
 | Sympy  | LaTeX  | maths     |
 |--------|--------|------------|
-| `x**2` | `$x^2$` | $\(x^2\)$ |
-| `sin(x)` | `$\sin(x)$` | $\(\sin(x)\)$ |
-| `integrate(f, x)` | `$\int f dx$` | $\(\int f dx\)$ |
+| `x**2` | `x^2` | $\(x^2\)$ |
+| `sin(x)` | `\sin(x)` | $\(\sin(x)\)$ |
+| `integrate(f, x)` | `\int f dx` | $\(\int f dx\)$ |
